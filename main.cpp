@@ -1,7 +1,5 @@
 //
 //  main.cpp
-//  Zajecia5
-//
 //  Created by Marcin Jurczyk on 26/03/2019.
 //  Copyright © 2019 Marcin Jurczyk. All rights reserved.
 //
